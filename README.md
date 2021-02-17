@@ -16,3 +16,4 @@
 * **Filtro de máscara para instagram:** https://bityli.com/Uy3t3
 * **Aplicação em streamlit para análise de filtros e como alteram uma imagem:** https://bityli.com/IMNTz
 * **Reconhecimento de placas de carro com OpenCv e Google Vision API:** https://bityli.com/AMbuI
+* * **API para segmentação e reconhecimento de moedas americanas:** https://bityli.com/moWz1
