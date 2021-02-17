@@ -5,6 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-@RicksonMonteiroENCAUT-blueviolet?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/rickson_gm)](https://instagram.com/rickson_gm)
 
 -> Data Science.
+
 -> Engineering student.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicksonMonteiroENCAUT&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
