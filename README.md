@@ -9,3 +9,10 @@
 -> Engineering student.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicksonMonteiroENCAUT&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+## Projetos:
+
+* **Detecção de Objetos em tempo real pela câmera do celular com a YOLOV3:** https://bityli.com/ta5XB
+* **Detector de Fadiga:** https://bityli.com/xGQLH
+* **Filtro de máscara para instagram:** https://bityli.com/Uy3t3
+* **Aplicação em streamlit para análise de filtros e como alteram uma imagem:** https://bityli.com/IMNTz
+* **Reconhecimento de placas de carro com OpenCv e Google Vision API:** https://bityli.com/AMbuI
