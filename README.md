@@ -4,7 +4,7 @@
 [![Medium Badge](https://img.shields.io/badge/-@RicksonMonteiroENCAUT-black?style=flat-square&labelColor=000000&logo=Medium&link=https://ricksonencaut.medium.com/)](https://ricksonencaut.medium.com/)
 [![Instagram Badge](https://img.shields.io/badge/-@RicksonMonteiroENCAUT-blueviolet?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/rickson_gm)](https://instagram.com/rickson_gm)
 
--> Data Science.
+-> Data Science & Computer Vision. <3
 
 -> Engineering student.
 
