@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+->Data Science 
+->Control and Automation Engineering
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicksonMonteiroENCAUT&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
