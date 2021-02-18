@@ -17,3 +17,4 @@
 * **Aplicação em streamlit para análise de filtros e como alteram uma imagem:** https://bit.ly/3aqFhko
 * **Reconhecimento de placas de carro com OpenCv e Google Vision API:** https://bit.ly/37mE3EL
 * **API para segmentação e reconhecimento de moedas americanas:** https://bit.ly/3bc2hCL
+* **Análise de dados do Airbnb para cidade de Amsterdam:** https://bit.ly/3axfg35  
