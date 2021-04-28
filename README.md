@@ -17,8 +17,8 @@
 * **Aplicação em streamlit para análise de filtros e como alteram uma imagem:** https://bit.ly/3aqFhko
 * **Reconhecimento de placas de carro com OpenCv e Google Vision API:** https://bit.ly/37mE3EL
 * **API para segmentação e reconhecimento de moedas americanas:** https://bit.ly/3bc2hCL
-* **Análise de dados do Airbnb para cidade de Amsterdam:** https://bit.ly/3axfg35  
+* **Análise de dados do Airbnb para cidade de Amsterdam:** https://bit.ly/3nz0CwX
 * **Análise de violência no estado do Rio de Janeiro:** https://bit.ly/3rEgZJS
 * **Panorama COVID-19**: https://bit.ly/2O7kPwu
-* **Detecção de Fraude em cartões de crédito**: https://bit.ly/3nd0anV 
+* **Detecção de Fraude em cartões de crédito**: https://bit.ly/3aGTidh
 * **Churn prediction para uma empresa de telecomunicações**: https://bit.ly/3vh1DfQ
