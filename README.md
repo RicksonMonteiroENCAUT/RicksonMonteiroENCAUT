@@ -25,3 +25,4 @@
 * **Churn prediction para uma empresa de telecomunicações**: https://bit.ly/3vh1DfQ
 * **Análise de risco de crédito**: https://bit.ly/3umwEPk 
 * **API para previsão de preço de imóveis do estado de São Paulo**: https://bit.ly/3y1iN3l -> (https://api-sp-price-predict.herokuapp.com/)
+* **Uber NYC pickups vizualization: https://bit.ly/2QasYRT**
