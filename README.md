@@ -20,7 +20,7 @@
 -----------------------------------------------------------------------------------
 * **Análise de dados do Airbnb para cidade de Amsterdam:** https://bit.ly/3nz0CwX
 * **Análise de violência no estado do Rio de Janeiro:** https://bit.ly/3rEgZJS
-* **~~Panorama COVID-19**: https://bit.ly/2O7kPwu
+* **Panorama COVID-19**: https://bit.ly/2O7kPwu
 * **Detecção de Fraude em cartões de crédito**: https://bit.ly/3aGTidh
 * **Churn prediction para uma empresa de telecomunicações**: https://bit.ly/3vh1DfQ
 * **Análise de risco de crédito**: https://bit.ly/3umwEPk 
